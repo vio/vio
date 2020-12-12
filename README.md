@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- :hammer: Maintainging [bundle-stats](https://github.com/relative-ci/bundle-stats), [known-css-properties](https://github.com/known-css/known-css-properties)
+- :hammer: [bundle-stats](https://github.com/relative-ci/bundle-stats)
+- :hammer: [known-css-properties](https://github.com/known-css/known-css-properties)
 - :construction: Building https://relative-ci.com
 
 <!--
